@@ -1,0 +1,4 @@
+1. open anaconda prompt
+ activate tfp
+cd C:\Users\saman\OneDrive\Desktop\gaze_tracking\MPAI19
+python example.py
